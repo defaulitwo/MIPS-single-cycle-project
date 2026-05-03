@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/mnt/e/.docs/CO/VHDL/MajorTaskPhase1/Top_TB_isim_beh.exe" -prj "/mnt/e/.docs/CO/VHDL/MajorTaskPhase1/Top_TB_beh.prj" "work.Top_TB" 

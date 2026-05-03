@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="MajorTaskPhase1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Flopr - Behavioral |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Flopr.vhd/package1</ClosedNode>
+         <ClosedNode>/RegisterFile - Behavioral |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|RegisterFile.vhd</ClosedNode>
+         <ClosedNode>/Top - Behavioral |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Top.vhd/mips0 - MIPS - Behavioral</ClosedNode>
+         <ClosedNode>/Top - Behavioral |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Top.vhd/mips0 - MIPS - Behavioral/datapath0 - DataPath - Behavioral/regfile0 - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/package1 |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|package1.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>datamem - dmem - behave (/mnt/e/.docs/CO/VHDL/MajorTaskPhase1/dmem.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000015f000000020000000000000000000000000200000064ffffffff0000008100000003000000020000015f0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>datamem - dmem - behave (/mnt/e/.docs/CO/VHDL/MajorTaskPhase1/dmem.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000230000000010000000100000000000000000000000064ffffffff000000810000000000000001000002300000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000004dc000000040101000100000000000000000000000064ffffffff000000810000000000000004000000510000000100000000000000290000000100000000000000840000000100000000000003de0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Decoder.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000125000000010001000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_PACKAGE_BODY" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000230000000010000000100000000000000000000000064ffffffff000000810000000000000001000002300000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000220000000010000000100000000000000000000000064ffffffff000000810000000000000001000002200000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUDecode_TB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|ALUDecode_TB.vhd</ClosedNode>
+         <ClosedNode>/Controller_TB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Controller_TB.vhd</ClosedNode>
+         <ClosedNode>/Controller_TB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Controller_TB.vhd/uut - Controller - Behavioral</ClosedNode>
+         <ClosedNode>/DataPathTB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|DataPathTB.vhd</ClosedNode>
+         <ClosedNode>/Datapath_TB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Datapath_TB.vhd</ClosedNode>
+         <ClosedNode>/DecoderTB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|DecoderTB.vhd</ClosedNode>
+         <ClosedNode>/MIPS_TB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|MIPS_TB.vhd</ClosedNode>
+         <ClosedNode>/MainDecoder_TB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|MainDecoder_TB.vhd</ClosedNode>
+         <ClosedNode>/MuxTB - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|MuxTB.vhd</ClosedNode>
+         <ClosedNode>/RegisterFile - Behavioral |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|RegisterFile.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|registerfiletest.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|registerfiletest.vhd/uut - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/Top_TB - test |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Top_TB.vhd</ClosedNode>
+         <ClosedNode>/alutest - behavior |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|ALUTest.vhd</ClosedNode>
+         <ClosedNode>/testbench - test |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Top_TB.vhd/dut - Top - Behavioral</ClosedNode>
+         <ClosedNode>/testbench - test |mnt|e|.docs|CO|VHDL|MajorTaskPhase1|Top_TB.vhd/dut - Top - Behavioral/mips0 - MIPS - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Top_TB - test (/mnt/e/.docs/CO/VHDL/MajorTaskPhase1/Top_TB.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000018e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000018e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Top_TB - test (/mnt/e/.docs/CO/VHDL/MajorTaskPhase1/Top_TB.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000220000000010000000100000000000000000000000064ffffffff000000810000000000000001000002200000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000220000000010000000100000000000000000000000064ffffffff000000810000000000000001000002200000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001510000012001000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>
