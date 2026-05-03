@@ -1,1 +1,1 @@
-# MIPS-single-cycle-project
+# MIPS single cycle project
